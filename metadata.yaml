@@ -1,0 +1,47 @@
+_repo: '-----------_40296'
+_version: 0.1.0
+alternative_title: Le Chancellor. Greek
+contributor:
+  translator:
+    agent_name: Phermpos, Panagiotes I.
+    alias: Φέρμπος, Παναγιώτης
+    birthdate: 1851
+    deathdate: 1932
+    gutenberg_agent_id: '40535'
+    url: http://www.gutenberg.org/2009/agents/40535
+covers:
+- cover_type: archival
+  image_path: 40296-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: 'Translation of: Le Chancellor'
+gutenberg_issued: '2012-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40296'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Cargo ships -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Shipwreck victims -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+title: Ο Σάνσελλορ
+url: http://www.gutenberg.org/ebooks/40296
