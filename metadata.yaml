@@ -28,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: 'Translation of: Le Chancellor'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40296#-----------
 gutenberg_issued: '2012-07-22'
 gutenberg_type: Text
 identifiers:
